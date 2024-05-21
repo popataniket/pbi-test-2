@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Aniket GIT test"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c48dee24-2358-44f8-a19e-7efcf4a0546e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Aniket GIT test"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "af0c1628-2e25-4b9d-a17b-aeeb9e6ae1a2"
+  }
+}
