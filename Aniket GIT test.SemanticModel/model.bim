@@ -12,7 +12,7 @@
       },
       {
         "name": "PBIDesktopVersion",
-        "value": "2.128.1177.0 (24.04)"
+        "value": "2.128.1380.0 (24.04)"
       },
       {
         "name": "PBI_ProTooling",
@@ -312,6 +312,19 @@
           }
         ],
         "lineageTag": "cb199967-272f-4758-b283-011ae860c3d3",
+        "measures": [
+          {
+            "name": "Total sales",
+            "annotations": [
+              {
+                "name": "PBI_FormatHint",
+                "value": "{\"isGeneralNumber\":true}"
+              }
+            ],
+            "expression": "SUM(Sheet1[ Sales])",
+            "lineageTag": "4086f15a-84b9-497e-b356-8d501c18b078"
+          }
+        ],
         "partitions": [
           {
             "name": "Sheet1",
